@@ -7,7 +7,7 @@
     "devDependencies": {
         "@zeit/next-preact": "^0.1.0",
         "module-alias": "^2.2.2",
-        "next": "^9.1.6",
+        "next": "^9.3.2",
         "preact": "^10.1.1",
         "preact-ssr-prepass": "^1.0.0",
         "webpack": "^4.41.4"
